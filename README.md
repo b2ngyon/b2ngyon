@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b2ngyon
 - 👀 I’m interested in Java, Web Scraping and Security fleid
-- 🌱 I’m currently learning  Java programming.
+- 🌱 I’m currently learning  Java programming, javascript related languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
